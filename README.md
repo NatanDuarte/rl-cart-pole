@@ -1,1 +1,1 @@
-# Reinforcement Learning Study: Cart Pole
+# Reinforcement Learning: Cart Pole exercise
